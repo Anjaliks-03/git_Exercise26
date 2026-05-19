@@ -5,3 +5,4 @@ def even_or_odd(num):
   else:
     return "odd"
 print(even_or_odd(5))
+print(hello)
