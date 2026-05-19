@@ -1,14 +1,2 @@
 This is my second file
 modifying the file
-
-
-20.82.99.34
-
-ssh -i C:\azure\my-vm-key.pem azureuser@172.201.113.116
-
-
-
-"C:\Users\anjal\Downloads\anjali-44_key.pem"
-
-
-ssh -i C:\Users\anjal\.ssh\anjali-44_key.pem azureuser@20.82.99.34
